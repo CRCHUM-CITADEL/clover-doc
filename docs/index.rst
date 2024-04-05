@@ -1,6 +1,16 @@
-**********************************
-Welcome to Clover's documentation!
-**********************************
+****************************************************
+Welcome to Clover's documentation! |citadel| |ivado|
+****************************************************
+
+.. |citadel| image:: citadel.jpg
+   :width: 150px
+   :height: 75px
+   :scale: 50 %
+
+.. |ivado| image:: ivado.png
+   :width: 200px
+   :height: 75px
+   :scale: 50 %
 
 -------------------------------------------------------
 Synthetic Health Data Generation and Validation Library
